@@ -15,7 +15,7 @@ public  class  mian {
     private  volatile  int state;
     public  void main(String[] args) {
         String s=new String("libo");
-        BaseDexClassLoader
+
         int i=0;
         long j = 1000L;
          System.out.println(s);
